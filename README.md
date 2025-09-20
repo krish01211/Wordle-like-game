@@ -1,12 +1,21 @@
-#from nytimes website
-How To Play
-Guess the Wordle in 6 tries.
-Each guess must be a valid 5-letter word.
-The color of the tiles will change to show how close your guess was to the word. // IN OUR PROJECT WITH DIFFERENT SYMBOLS INSTEAD OF COLOR OF TILES
-Examples
-W is in the word and in the correct spot.
-WORDY
-I is in the word but in the wrong spot.
-L?GHT
-U is not in the word in any spot.
-ROG_E
+# Wordle Clone (Symbol Edition)
+
+A fun twist on the classic **Wordle** game!  
+Instead of colored tiles, our project uses **different symbols** to indicate correctness.  
+
+---
+
+## 🎮 How To Play
+- Guess the **5-letter word** in **6 tries**.  
+- Each guess must be a **valid word**.  
+- After each guess, symbols will show how close your guess was:  
+
+### Symbols:
+- ✅ = Letter is in the word **and in the correct spot**  
+- ❓ = Letter is in the word but **in the wrong spot**  
+- ❌ = Letter is **not in the word**  
+
+---
+
+## 📖 Examples
+
