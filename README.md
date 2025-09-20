@@ -16,6 +16,3 @@ Instead of colored tiles, our project uses **different symbols** to indicate cor
 - ❌ = Letter is **not in the word**  
 
 ---
-
-## 📖 Examples
-
